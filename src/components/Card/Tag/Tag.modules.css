@@ -1,0 +1,26 @@
+.saleStyle {
+  display: block;
+  background: red;
+  color: white;
+  padding: 8px;
+  margin-left: 12px;
+  margin-bottom: 12px;
+  float: left;
+}
+
+.exclusiveStyle {
+  display: block;
+  background: green;
+  color: white;
+  padding: 8px;
+  margin-left: 12px;
+  margin-bottom: 12px;
+  float: left;
+}
+
+.defaultStyle {
+  display: block;
+  padding: 8px;
+  min-height: 1rem;
+  margin-bottom: 12px;
+}

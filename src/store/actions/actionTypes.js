@@ -1,0 +1,7 @@
+export const CHANGE_LABEL = 'CHANGE_LABEL';
+export const HANDLE_CLOSED = 'HANDLE_CLOSED';
+export const HANDLE_OPENED = 'HANDLE_OPENED';
+export const INITIALIZE = 'INITIALIZE';
+export const INITIALIZE_OFFLINE = 'INITIALIZE_OFFLINE';
+export const LOADING = 'LOADING';
+export const ERROR_OCCURED = 'ERROR_OCCURED';

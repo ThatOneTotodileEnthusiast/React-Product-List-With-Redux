@@ -1,0 +1,12 @@
+.formControl {
+  position: relative;
+  margin-left: 100px;
+  margin-left: 5% !important;
+  margin-right: 5% !important;
+  float: right;
+  margin-top: 5px !important;
+  margin-bottom: 10px !important;
+  width: 80%;
+  background: white;
+  overflow: hidden;
+}
